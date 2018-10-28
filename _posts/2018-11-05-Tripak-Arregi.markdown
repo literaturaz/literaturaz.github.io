@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sarrera + Tripak kolektiboa, Rikardo Arregi"
-date:   2018-11-05 16:56:10 +0100
+date:   2018-11-05 03:14:15 +0100
 categories: liburuak
 ---
 ### Sarrera
