@@ -9,4 +9,4 @@ Lehenik eta behin, ongi etorri eta milesker. Blog honen asmoa astero liburuen ed
 
 ### _Aitaren larrua_ (Eztena, 2018)
 
-### _Rikardo Arregi, gizona eta garaia_ ( ..., 1996)
+### _Rikardo Arregi, gizona eta garaia_ (Manuel Larramendi kultur bazkuna, 1996)
