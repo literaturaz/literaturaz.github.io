@@ -10,7 +10,6 @@ title: Literaturaz
 email: literaturaz@protonmail.ch
 description: > # this means to ignore newlines until "baseurl:"
   Azken boladan irakurritako liburuei buruzko iruzkinak eta bestelako literatur-berriak.
-    <p class="rss-subscribe"><a href="/feed.xml">Harpidetu RSS bidez</a></p>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://literaturaz.github.io/" # the base hostname & protocol for your site
 
