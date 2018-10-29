@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 5px solid $white;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -113,11 +113,9 @@
     margin-left: 0;
 }
 
-.footer-col-wrapper {
+.footer-wrapper {
     font-size: 15px;
     color: $grey-color;
-    margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
 }
 
 .footer-col {
